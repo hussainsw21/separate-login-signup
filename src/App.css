@@ -6,9 +6,9 @@ body {
 
 .career-mate-page {
   text-align: center;
-  background-color: #3c2c2c;
+  background-color: #ffffff;
   min-height: 100vh;
-  color: white;
+  color: rgb(107, 60, 60);
 }
 
 /* Header */
@@ -51,7 +51,7 @@ body {
 }
 
 .navbar a:hover {
-  color: #4d6efc;
+  color: #ffffff;
 }
 
 /* Content Section */
@@ -81,7 +81,7 @@ body {
 
 .signup-btn,
 .login-btn {
-  background-color: #ccff8f;
+  background-color: #7db4ff;
   border: none;
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
@@ -93,7 +93,7 @@ body {
 
 .signup-btn:hover,
 .login-btn:hover {
-  background-color: #aaff70;
+  background-color: #b86060;
 }
 
 .login-text {
@@ -103,7 +103,7 @@ body {
 /* Divider */
 .divider {
   width: 2px;
-  background-color: white;
+  background-color: black;
   height: 300px;
   margin: 0 2rem; /* Add some space between the sections and the divider */
 }
